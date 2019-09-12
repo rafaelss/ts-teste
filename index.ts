@@ -1,6 +1,8 @@
+import * as mdc from 'material-components-web'
+
 class App {
   static main():void {
-      console.log('aaaaaaaaaa');
+      console.log('aaaaaaaaaa', mdc);
   }
 }
 
